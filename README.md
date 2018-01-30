@@ -1,4 +1,1 @@
-ud989-cat-clicker-ko-starter
-============================
-
-ud989-cat-clicker-ko-starter
+A simple clicker application.
